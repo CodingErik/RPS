@@ -1,6 +1,6 @@
-### File
+### RPS
 
-* _None_
+* This is a Rock paper scissors game to play on your free time!
 
 ### Instructions
 
